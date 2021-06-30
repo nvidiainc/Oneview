@@ -11,7 +11,7 @@ ___
 #### **Usage**
 ###### The Oneview application tutorial is built-in to the installer.
 
-![alt text](https://img.creativemark.co.uk/uploads/images/414/17414/img3File.png)
+![alt text](https://i.imgur.com/kBKib0a.png)
 
 ---
 
