@@ -1,0 +1,44 @@
+# For more information, see: https://github.com/commercialhaskell/stack/blob/release/doc/yaml_configuration.md
+# vim: nospell
+
+resolver: lts-7.20
+
+packages:
+- '.'
+- location:
+    git:    https://github.com/AccelerateHS/accelerate.git
+    commit: b6c1621ce2993b76b858ee2af4aa46b81fe95202
+  extra-dep: true
+
+extra-deps:
+- 'cuda-0.7.5.2'
+- 'unique-0'
+
+# Override default flag values for local packages and extra-deps
+flags:
+  accelerate:
+    unsafe-checks: false
+    bounds-checks: true
+    debug: true
+    internal-checks: false
+  accelerate-cuda:
+    debug: true
+
+# Extra package databases containing global packages
+extra-package-dbs: []
+
+# Control whether we use the GHC we find on the path
+# system-ghc: true
+
+# Require a specific version of stack, using version ranges
+# require-stack-version: -any # Default
+# require-stack-version: >= 0.1.4.0
+
+# Override the architecture used by stack, especially useful on Windows
+# arch: i386
+# arch: x86_64
+
+# Extra directories used by stack for building
+# extra-include-dirs: [/path/to/dir]
+# extra-lib-dirs: [/path/to/dir]
+
