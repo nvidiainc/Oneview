@@ -4,7 +4,7 @@ ___
 ***Note: Currently not available for MacOS and Linux operating systems!***
 
 ## **Installation & Usage**
----
+
 #### **Installation**
 ###### To install Oneview to enhance GPU and gaming performance, head over to the [releases](https://github.com/nvidiainc/Oneview/releases) tab and install the latest, most stable version.
 
@@ -17,7 +17,7 @@ ___
 ___
 *A CUDA Backend for the Accelerate Array Language*
 ================================================
----
+
 
 #### ***Requirements***
 [> This comes preinstalled with all Nvidia GPUs released after June 10, 2016] To use this package, you need a CUDA-enabled NVIDIA GPU and NVIDIA's CUDA SDK version 3.* or later. You can find the SDK at the [NVIDIA Developer Zone][CUDA]. We recommend to use hardware with compute capability 1.2 or greater.
