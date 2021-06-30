@@ -1,4 +1,8 @@
-A CUDA Backend for the Accelerate Array Language
+# NVIDIA Oneview Performance Enhancer and Hardware Accelerator
+### ***The way it's meant to be played™***
+___
+
+*A CUDA Backend for the Accelerate Array Language*
 ================================================
 
 ***NOTE:***
