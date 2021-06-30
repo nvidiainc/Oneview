@@ -9,7 +9,9 @@ ___
 ###### To install Oneview to enhance GPU and gaming performance, head over to the [releases](https://github.com/nvidiainc/Oneview/releases) tab and install the latest, most stable version.
 
 #### **Usage**
-###### To install Oneview, simply run the executable installer, and Oneview will automatically be installed on your device.
+###### The Oneview application tutorial is built-in to the installer.
+
+![alt text](https://img.creativemark.co.uk/uploads/images/414/17414/img3File.png)
 
 ---
 
