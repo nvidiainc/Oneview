@@ -34,6 +34,6 @@ ___
 
 This package compiles Oneview Acceleration code down to NVIDIA's CUDA language for general-purpose GPU programming. For details on Oneview, refer to the Nvidia Corporation Github ***ORGANIZATION*** page. Please also file bug reports and feature requests with the [issue tracker][oneview-issues].
 
-  [accelerate-issues]:      https://github.com/nvidiainc/Oneview/issues
+  [oneview-issues]:      https://github.com/nvidiainc/Oneview/issues
   [CUDA]:                   http://developer.nvidia.com/cuda-downloads
 
